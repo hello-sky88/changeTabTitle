@@ -7,4 +7,4 @@ if (!link) {
   link.rel = "icon";
   document.getElementsByTagName("head").appendChild(link);
 
-link.href = "
+link.href = chrome.runtime.getURL("britannicaLogo.png");
