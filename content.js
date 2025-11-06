@@ -10,4 +10,4 @@ if (!link) {
   document.getElementsByTagName("head")[0].appendChild(link);
 }
 
-link.href = chrome.runtime.getURL("britannicaLogo.png");
+link.href = chrome.runtime.getURL("output-onlinepngtools.png");
