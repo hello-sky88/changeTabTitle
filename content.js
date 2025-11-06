@@ -1,4 +1,6 @@
-document.title = "Britannica school";
+setTimeout(() => {
+  document.title = "Britannica school";
+}, 1000)
 
 let link = document.querySelector("link[rel~='icon']");
 
