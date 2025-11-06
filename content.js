@@ -1,4 +1,4 @@
-document.title = "Britannica school"
+document.title = "Britannica school";
 
 let link = document.querySelector("link[rel~='icon']");
 
